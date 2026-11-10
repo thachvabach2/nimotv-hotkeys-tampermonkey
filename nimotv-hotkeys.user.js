@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Nimo TV Hotkeys (Fullscreen, Chat, Mute, Resolution + Fast UI)
-// @namespace    http://tampermonkey.net/
-// @version      1.0
+// @namespace    https://github.com/thachvabach2
+// @version      1.1
 // @description  Hotkeys: 'F' full, 'L' chat, 'Esc'/'Enter' blur, 'M' mute, '1-9' resolutions with safe UI flash
-// @author       You
+// @author       thachvabach2
 // @match        *://*.nimo.tv/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/thachvabach2/nimotv-hotkeys-tampermonkey/main/nimotv-hotkeys.user.js
+// @downloadURL  https://raw.githubusercontent.com/thachvabach2/nimotv-hotkeys-tampermonkey/main/nimotv-hotkeys.user.js
 // ==/UserScript==
 
 (function() {
