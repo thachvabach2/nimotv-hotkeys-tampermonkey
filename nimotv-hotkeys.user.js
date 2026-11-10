@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Nimo TV Hotkeys (Fullscreen, Chat, Mute, Resolution + Fast UI)
 // @namespace    https://github.com/thachvabach2
-// @version      1.1
+// @version      1.2
 // @description  Hotkeys: 'F' full, 'L' chat, 'Esc'/'Enter' blur, 'M' mute, '1-9' resolutions with safe UI flash
 // @author       thachvabach2
 // @match        *://*.nimo.tv/*
